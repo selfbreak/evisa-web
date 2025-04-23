@@ -1,0 +1,1 @@
+import{r as e,j as n}from"./index-lfMN-dzl.js";import{S as a}from"./Table-_32VBYEr.js";const c=({checked:c,onChange:r,checkedChildren:d,unCheckedChildren:h,...i})=>{const[o,s]=e.useState(!1);return n(a,{...i,loading:o,checked:c,onChange:async e=>{s(!0);try{await r(e)}finally{s(!1)}},checkedChildren:d,unCheckedChildren:h})};export{c as L};
