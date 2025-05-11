@@ -1,0 +1,1 @@
+import{u as t,j as r,B as s,H as e}from"./index-CiAhniVm.js";/* empty css              */import{R as o}from"./index-C2YQhxTC.js";const i=()=>{const i=t();return r(o,{status:"500",title:"500",subTitle:"Sorry, something went wrong.",extra:r(s,{type:"primary",onClick:()=>{i(e)},children:"Back Home"})})};export{i as default};
