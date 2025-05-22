@@ -1,1 +1,0 @@
-import{dq as e}from"./index-Cb-OfYTB.js";function n(n,t,r,a){var s=e.unstable_batchedUpdates?function(n){e.unstable_batchedUpdates(r,n)}:r;return null!=n&&n.addEventListener&&n.addEventListener(t,s,a),{remove:function(){null!=n&&n.removeEventListener&&n.removeEventListener(t,s,a)}}}export{n as a};
